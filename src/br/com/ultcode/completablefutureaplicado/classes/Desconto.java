@@ -1,4 +1,4 @@
-package com.ultcode.completablefutureaplicado.classes;
+package br.com.ultcode.completablefutureaplicado.classes;
 
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;

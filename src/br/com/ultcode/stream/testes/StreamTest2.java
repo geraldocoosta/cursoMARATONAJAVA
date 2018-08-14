@@ -1,4 +1,4 @@
-package com.ultcode.stream.testes;
+package br.com.ultcode.stream.testes;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.DoubleStream;
 import java.util.stream.Stream;
 
-import com.ultcode.stream.classes.Pessoa;
+import br.com.ultcode.stream.classes.Pessoa;
 
 import static java.util.Arrays.asList;
 

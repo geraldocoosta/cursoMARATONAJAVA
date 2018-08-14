@@ -1,6 +1,6 @@
-package com.ultcode.completablefuture.teste;
+package br.com.ultcode.completablefuture.teste;
 
-import com.ultcode.completablefuture.classes.Loja;
+import br.com.ultcode.completablefuture.classes.Loja;
 
 public class CompletableFutureTest {
 	public static void main(String[] args) {

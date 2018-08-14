@@ -1,4 +1,4 @@
-package com.ultcode.padroesdeprojetostrategy.classes;
+package br.com.ultcode.padroesdeprojetostrategy.classes;
 
 public class Venda {
 	private final Funcionario funcionario;

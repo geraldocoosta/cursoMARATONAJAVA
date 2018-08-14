@@ -1,4 +1,4 @@
-package com.ultcode.parallelstream.teste;
+package br.com.ultcode.parallelstream.teste;
 
 import java.util.stream.LongStream;
 import java.util.stream.Stream;

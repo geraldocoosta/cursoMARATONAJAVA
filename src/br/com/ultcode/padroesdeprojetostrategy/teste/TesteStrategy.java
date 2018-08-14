@@ -1,8 +1,8 @@
-package com.ultcode.padroesdeprojetostrategy.teste;
+package br.com.ultcode.padroesdeprojetostrategy.teste;
 
-import com.ultcode.padroesdeprojetostrategy.classes.Cargo;
-import com.ultcode.padroesdeprojetostrategy.classes.Funcionario;
-import com.ultcode.padroesdeprojetostrategy.classes.Venda;
+import br.com.ultcode.padroesdeprojetostrategy.classes.Cargo;
+import br.com.ultcode.padroesdeprojetostrategy.classes.Funcionario;
+import br.com.ultcode.padroesdeprojetostrategy.classes.Venda;
 
 public class TesteStrategy {
 	public static void main(String[] args) {

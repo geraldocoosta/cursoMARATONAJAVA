@@ -1,4 +1,4 @@
-package com.ultcode.stream.testes;
+package br.com.ultcode.stream.testes;
 
 import java.util.Arrays;
 import java.util.List;

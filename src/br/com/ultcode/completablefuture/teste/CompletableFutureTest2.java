@@ -1,10 +1,10 @@
-package com.ultcode.completablefuture.teste;
+package br.com.ultcode.completablefuture.teste;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 
-import com.ultcode.completablefuture.classes.Loja;
-import com.ultcode.completablefuture.classes.Loja2;
+import br.com.ultcode.completablefuture.classes.Loja;
+import br.com.ultcode.completablefuture.classes.Loja2;
 
 public class CompletableFutureTest2 {
 	// Métodos para tratamento de exceção com completableFuture 

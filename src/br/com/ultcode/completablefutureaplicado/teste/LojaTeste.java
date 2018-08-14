@@ -1,4 +1,4 @@
-package com.ultcode.completablefutureaplicado.teste;
+package br.com.ultcode.completablefutureaplicado.teste;
 
 import java.util.List;
 import java.util.concurrent.CompletableFuture;
@@ -6,9 +6,9 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 
-import com.ultcode.completablefutureaplicado.classes.Desconto;
-import com.ultcode.completablefutureaplicado.classes.Loja;
-import com.ultcode.completablefutureaplicado.classes.Orcamento;
+import br.com.ultcode.completablefutureaplicado.classes.Desconto;
+import br.com.ultcode.completablefutureaplicado.classes.Loja;
+import br.com.ultcode.completablefutureaplicado.classes.Orcamento;
 
 public class LojaTeste {
 	public static void main(String[] args) {

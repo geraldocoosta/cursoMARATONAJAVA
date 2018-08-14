@@ -1,4 +1,4 @@
-package com.ultcode.lambda.teste;
+package br.com.ultcode.lambda.teste;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
-import com.ultcode.lambda.classes.ComparadorStrings;
+import br.com.ultcode.lambda.classes.ComparadorStrings;
 
 public class LambdaTest3 {
 	public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package com.ultcode.interfacesdefault.teste;
+package br.com.ultcode.interfacesdefault.teste;
 
-import com.ultcode.interfacesdefault.classes.ClasseImplementadora;
-import com.ultcode.interfacesdefault.interfaces.Interfaceavel;
+import br.com.ultcode.interfacesdefault.classes.ClasseImplementadora;
+import br.com.ultcode.interfacesdefault.interfaces.Interfaceavel;
 
 public class Teste {
 

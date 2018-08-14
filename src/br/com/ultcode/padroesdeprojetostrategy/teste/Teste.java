@@ -1,4 +1,4 @@
-package com.ultcode.padroesdeprojetostrategy.teste;
+package br.com.ultcode.padroesdeprojetostrategy.teste;
 
 import static java.util.Arrays.asList;
 
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-import com.ultcode.padroesdeprojetostrategy.classes.Carro;
+import br.com.ultcode.padroesdeprojetostrategy.classes.Carro;
 
 public class Teste {
 	public static void main(String[] args) {

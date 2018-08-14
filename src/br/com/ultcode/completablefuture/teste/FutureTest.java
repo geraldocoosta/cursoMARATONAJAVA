@@ -1,4 +1,4 @@
-package com.ultcode.completablefuture.teste;
+package br.com.ultcode.completablefuture.teste;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

@@ -1,6 +1,6 @@
-package com.ultcode.padroesdeprojetofactory.classes;
+package br.com.ultcode.padroesdeprojetofactory.classes;
 
-import com.ultcode.padroesdeprojetofactory.interfaces.Moeda;
+import br.com.ultcode.padroesdeprojetofactory.interfaces.Moeda;
 
 public class Real implements Moeda{
 

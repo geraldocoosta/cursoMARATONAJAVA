@@ -1,4 +1,4 @@
-package com.ultcode.stream.classes;
+package br.com.ultcode.stream.classes;
 
 import java.util.Arrays;
 import java.util.List;

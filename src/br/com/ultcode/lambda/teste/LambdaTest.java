@@ -1,4 +1,4 @@
-package com.ultcode.lambda.teste;
+package br.com.ultcode.lambda.teste;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
@@ -7,7 +7,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
-import com.ultcode.lambda.classes.TestePredicate;
+import br.com.ultcode.lambda.classes.TestePredicate;
 
 public class LambdaTest {
 	public static void main(String[] args) {

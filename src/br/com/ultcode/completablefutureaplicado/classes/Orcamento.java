@@ -1,6 +1,6 @@
-package com.ultcode.completablefutureaplicado.classes;
+package br.com.ultcode.completablefutureaplicado.classes;
 
-import com.ultcode.completablefutureaplicado.classes.Desconto.Codigo;
+import br.com.ultcode.completablefutureaplicado.classes.Desconto.Codigo;
 
 public class Orcamento {
 	private final String nomeLoja;

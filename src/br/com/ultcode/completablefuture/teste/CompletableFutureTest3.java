@@ -1,4 +1,4 @@
-package com.ultcode.completablefuture.teste;
+package br.com.ultcode.completablefuture.teste;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 
-import com.ultcode.completablefuture.classes.Loja2;
+import br.com.ultcode.completablefuture.classes.Loja2;
 
 public class CompletableFutureTest3 {
 	public static void main(String[] args) {

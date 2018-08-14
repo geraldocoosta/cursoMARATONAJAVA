@@ -1,4 +1,4 @@
-package com.ultcode.padroesdeprojetofactory.classes;
+package br.com.ultcode.padroesdeprojetofactory.classes;
 
 public enum MoedaType {
 	

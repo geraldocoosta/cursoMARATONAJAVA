@@ -22,8 +22,7 @@ public class TesteTime1 {
 		LocalTime lt = LocalTime.parse("23:11");
 		LocalTime lt2 = LocalTime.now();
 		System.out.println(lt);
-		System.out.println(lt2 );
-		
+		System.out.println(lt2);
 
 	}
 }

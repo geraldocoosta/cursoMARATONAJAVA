@@ -1,6 +1,6 @@
-package com.ultcode.padroesdeprojetostrategy.classes;
+package br.com.ultcode.padroesdeprojetostrategy.classes;
 
-import com.ultcode.padroesdeprojetostrategy.interfaces.Comissao;
+import br.com.ultcode.padroesdeprojetostrategy.interfaces.Comissao;
 
 public enum Cargo implements Comissao {
 	ATENDENTE {

@@ -1,4 +1,4 @@
-package com.ultcode.stream.testes;
+package br.com.ultcode.stream.testes;
 
 import java.util.Comparator;
 import java.util.DoubleSummaryStatistics;
@@ -9,9 +9,9 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import com.ultcode.stream.classes.Genero;
-import com.ultcode.stream.classes.MaiorIdade;
-import com.ultcode.stream.classes.Pessoa;
+import br.com.ultcode.stream.classes.Genero;
+import br.com.ultcode.stream.classes.MaiorIdade;
+import br.com.ultcode.stream.classes.Pessoa;
 
 public class TesteUltimasAulasStream {
 	public static void main(String[] args) {

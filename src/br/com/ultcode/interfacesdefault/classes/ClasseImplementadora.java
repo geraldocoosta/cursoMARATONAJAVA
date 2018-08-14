@@ -1,4 +1,4 @@
-package com.ultcode.interfacesdefault.classes;
+package br.com.ultcode.interfacesdefault.classes;
 
 public class ClasseImplementadora extends ClasseTeste{
 

@@ -1,11 +1,11 @@
-package com.ultcode.stream.testes;
+package br.com.ultcode.stream.testes;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.ultcode.stream.classes.Pessoa;
+import br.com.ultcode.stream.classes.Pessoa;
 
 public class StreamTest {
 	public static void main(String[] args) {

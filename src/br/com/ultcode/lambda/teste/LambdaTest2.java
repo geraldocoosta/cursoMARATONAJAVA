@@ -1,4 +1,4 @@
-package com.ultcode.lambda.teste;
+package br.com.ultcode.lambda.teste;
 
 import java.util.ArrayList;
 import java.util.Arrays;

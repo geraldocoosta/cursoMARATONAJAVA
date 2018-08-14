@@ -1,4 +1,4 @@
-package com.ultcode.lambda.classes;
+package br.com.ultcode.lambda.classes;
 
 public class ComparadorStrings {
 

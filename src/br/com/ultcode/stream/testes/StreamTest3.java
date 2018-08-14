@@ -1,4 +1,4 @@
-package com.ultcode.stream.testes;
+package br.com.ultcode.stream.testes;
 
 import java.io.IOException;
 import java.nio.file.Files;

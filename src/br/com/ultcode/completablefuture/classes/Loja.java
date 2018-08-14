@@ -1,4 +1,4 @@
-package com.ultcode.completablefuture.classes;
+package br.com.ultcode.completablefuture.classes;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.Future;

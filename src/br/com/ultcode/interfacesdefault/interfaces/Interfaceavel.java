@@ -1,4 +1,4 @@
-package com.ultcode.interfacesdefault.interfaces;
+package br.com.ultcode.interfacesdefault.interfaces;
 
 public interface Interfaceavel extends InterfaceavelSuper {
 

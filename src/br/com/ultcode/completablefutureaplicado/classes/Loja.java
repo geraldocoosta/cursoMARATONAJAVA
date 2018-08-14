@@ -1,4 +1,4 @@
-package com.ultcode.completablefutureaplicado.classes;
+package br.com.ultcode.completablefutureaplicado.classes;
 
 import java.util.Arrays;
 import java.util.List;
